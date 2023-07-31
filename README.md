@@ -15,9 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-sharique-hussain-585020231/" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="Md Sharique Hussain" height="30" width="40"/></a>
-
 <a href="https://www.facebook.com/shas.megvel/" target="blank"><img align="center" src="https://cdn.simpleicons.org/facebook" alt="facebook" height="30" width="40"/></a>
-
 <a href="https://www.instagram.com/sha_.rik/" target="blank"><img align="center" src="https://cdn.simpleicons.org/instagram" alt="instagram" height="30" width="40"/></a>
   
 </p>
